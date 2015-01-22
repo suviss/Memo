@@ -1,0 +1,2 @@
+module JayHelper
+end
